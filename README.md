@@ -9,7 +9,7 @@ Programming has been a major focus for me lately, and the knowledge I've gathere
 ## Skillset
 
 ### Tech Stack
-* **Languages:** JavaScript, TypeScript, C# *(primarily for game development)*
+* **Languages:** JavaScript, TypeScript, C# *(C# primarily for game development)*
 * **Frontend:** React
 * **Backend & DB:** Node.js, Prisma, PostgreSQL *(basic routing and setup)*
 
