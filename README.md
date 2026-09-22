@@ -11,7 +11,7 @@ Programming has been a major focus for me lately, and the knowledge I've gathere
 ### Tech Stack
 * **Languages:** JavaScript, TypeScript, C# *(C# primarily for game development)*
 * **Frontend:** React
-* **Backend & DB:** Node.js, Prisma, PostgreSQL *(basic routing and setup)*
+* **Backend & DB:** Node.js, Prisma, PostgreSQL *(basic routing and setup, still learning all these!)*
 
 ### 3D-Modeling
 * **Software:** Blender
