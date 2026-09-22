@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kristian!
 
-<!--
-**Krima98/Krima98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative developer with a bachelor's degree in **Multimedia Technology and Design**. I love crafting things, solving diverse challenges, and bridging the gap between technical code and visual creativity. 
 
-Here are some ideas to get you started:
+Programming has been a major focus for me lately, and the knowledge I've gathered over the past few years has given me a strong foundation in building modern applications. Always curious, I’m constantly looking to learn new tools and languages along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skillset
+
+### Tech Stack
+* **Languages:** JavaScript, TypeScript, C# *(primarily for game development)*
+* **Frontend:** React
+* **Backend & DB:** Node.js, Prisma, PostgreSQL *(basic routing and setup)*
+
+### 3D-Modeling
+* **Software:** Blender
+* Polygon modeling & Sculpting
+* Simulations & Animations
+* Physically Based Rendering (PBR)
+
+### Design & Motion
+* **Software:** Photoshop, Illustrator, Premiere Pro, After Effects, Audition
+* UI/UX Design & Vector-based illustrations
+* Motion graphics & Visual effects compositing
+* Audio editing
